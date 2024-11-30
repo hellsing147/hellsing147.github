@@ -1,0 +1,48 @@
+
+.section2{
+    width: 100%;
+}
+.fondo{
+    margin: 0;
+    background: url(../img/img5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+}
+.servicio{
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+    padding: 20px 0px;
+    text-align: center;
+    color: white;
+}
+.cont-servicio{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.cont-iconos{
+    width: 250px;
+    margin: 15px;
+}
+.contenedor{
+    text-align: center;
+}
+.iconozzz{
+    color: white;
+    width: 20px;
+}
+.cont-iconos h3{
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+.section p{
+    font-size: 18px;
+    line-height: 30px;
+    color: white;
+}
